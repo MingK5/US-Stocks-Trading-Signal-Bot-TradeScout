@@ -1,0 +1,15 @@
+Best EMA Combo for MSFT: Short EMA = 30, Long EMA = 90
+Total ROI (Non_Confirmed Trades): 102.58%
+
+Buy Trades Executed:
+BUY at 2020-08-03 00:00:00-04:00 with price 208.74, Volume = 733868, ROI = 44.21%, Non_Confirmed, Short EMA = 30, Long EMA = 90
+BUY at 2022-08-16 00:00:00-04:00 with price 287.23, Volume = 469171, ROI = -10.54%, Non_Confirmed, Short EMA = 30, Long EMA = 90
+BUY at 2023-02-08 00:00:00-05:00 with price 263.02, Volume = 1244877, ROI = 57.03%, Non_Confirmed, Short EMA = 30, Long EMA = 90
+
+Trades Executed:
+BUY at 2020-08-03 00:00:00-04:00 with price 208.74, Volume = 733868
+SELL at 2022-01-28 00:00:00-05:00 with price 301.02, Volume = 968610
+BUY at 2022-08-16 00:00:00-04:00 with price 287.23, Volume = 469171
+SELL at 2022-08-31 00:00:00-04:00 with price 256.95, Volume = 495659
+BUY at 2023-02-08 00:00:00-05:00 with price 263.02, Volume = 1244877
+SELL at 2024-08-13 00:00:00-04:00 with price 413.03, Volume = 247042

@@ -1,0 +1,11 @@
+Best EMA Combo for KO: Short EMA = 100, Long EMA = 200
+Total ROI (Non_Confirmed Trades): 26.39%
+
+Buy Trades Executed:
+BUY at 2020-09-08 00:00:00-04:00 with price 44.04, Volume = 331757, ROI = 26.39%, Non_Confirmed, Short EMA = 100, Long EMA = 200
+BUY at 2024-02-02 00:00:00-05:00 with price 59.62, Volume = 436667, ROI = Pending, Non_Confirmed, Short EMA = 100, Long EMA = 200
+
+Trades Executed:
+BUY at 2020-09-08 00:00:00-04:00 with price 44.04, Volume = 331757
+SELL at 2023-09-25 00:00:00-04:00 with price 55.66, Volume = 218620
+BUY at 2024-02-02 00:00:00-05:00 with price 59.62, Volume = 436667

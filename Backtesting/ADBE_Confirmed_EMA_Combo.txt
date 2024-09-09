@@ -1,0 +1,17 @@
+Best EMA Combo for ADBE: Short EMA = 30, Long EMA = 90
+Total ROI (Confirmed Trades): 30.15%
+
+Buy Trades Executed:
+BUY at 2020-08-03 00:00:00-04:00 with price 448.21, Volume = 37339, ROI = 0.05%, Confirmed, Short EMA = 30, Long EMA = 90
+BUY at 2021-04-12 00:00:00-04:00 with price 506.02, Volume = 135694, ROI = -13.35%, Confirmed, Short EMA = 30, Long EMA = 90
+BUY at 2023-03-22 00:00:00-04:00 with price 361.64, Volume = 209319, ROI = 50.13%, Confirmed, Short EMA = 30, Long EMA = 90
+BUY at 2024-07-05 00:00:00-04:00 with price 578.37, Volume = 61905, ROI = Pending, Confirmed, Short EMA = 30, Long EMA = 90
+
+Trades Executed:
+BUY at 2020-08-03 00:00:00-04:00 with price 448.21, Volume = 37339
+SELL at 2021-03-03 00:00:00-05:00 with price 448.45, Volume = 176176
+BUY at 2021-04-12 00:00:00-04:00 with price 506.02, Volume = 135694
+SELL at 2022-02-22 00:00:00-05:00 with price 438.46, Volume = 260836
+BUY at 2023-03-22 00:00:00-04:00 with price 361.64, Volume = 209319
+SELL at 2024-03-06 00:00:00-05:00 with price 542.92, Volume = 145104
+BUY at 2024-07-05 00:00:00-04:00 with price 578.37, Volume = 61905

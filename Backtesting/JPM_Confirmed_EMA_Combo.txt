@@ -1,0 +1,14 @@
+Best EMA Combo for JPM: Short EMA = 30, Long EMA = 90
+Total ROI (Confirmed Trades): 54.79%
+
+Buy Trades Executed:
+BUY at 2020-07-29 00:00:00-04:00 with price 89.13, Volume = 283613, ROI = 51.46%, Confirmed, Short EMA = 30, Long EMA = 90
+BUY at 2022-11-02 00:00:00-04:00 with price 121.11, Volume = 697473, ROI = 2.20%, Confirmed, Short EMA = 30, Long EMA = 90
+BUY at 2023-11-16 00:00:00-05:00 with price 148.82, Volume = 253814, ROI = Pending, Confirmed, Short EMA = 30, Long EMA = 90
+
+Trades Executed:
+BUY at 2020-07-29 00:00:00-04:00 with price 89.13, Volume = 283613
+SELL at 2022-01-21 00:00:00-05:00 with price 135.00, Volume = 623282
+BUY at 2022-11-02 00:00:00-04:00 with price 121.11, Volume = 697473
+SELL at 2023-03-30 00:00:00-04:00 with price 123.77, Volume = 257557
+BUY at 2023-11-16 00:00:00-05:00 with price 148.82, Volume = 253814

@@ -1,0 +1,14 @@
+Best EMA Combo for MA: Short EMA = 100, Long EMA = 200
+Total ROI (Non_Confirmed Trades): -2.86%
+
+Buy Trades Executed:
+BUY at 2020-08-04 00:00:00-04:00 with price 307.41, Volume = 169018, ROI = 8.82%, Non_Confirmed, Short EMA = 100, Long EMA = 200
+BUY at 2022-01-12 00:00:00-05:00 with price 361.81, Volume = 339020, ROI = -10.73%, Non_Confirmed, Short EMA = 100, Long EMA = 200
+BUY at 2023-01-11 00:00:00-05:00 with price 374.47, Volume = 176101, ROI = Pending, Non_Confirmed, Short EMA = 100, Long EMA = 200
+
+Trades Executed:
+BUY at 2020-08-04 00:00:00-04:00 with price 307.41, Volume = 169018
+SELL at 2021-11-24 00:00:00-05:00 with price 334.52, Volume = 795411
+BUY at 2022-01-12 00:00:00-05:00 with price 361.81, Volume = 339020
+SELL at 2022-03-09 00:00:00-05:00 with price 322.98, Volume = 196908
+BUY at 2023-01-11 00:00:00-05:00 with price 374.47, Volume = 176101

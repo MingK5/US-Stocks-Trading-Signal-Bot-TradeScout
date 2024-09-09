@@ -1,0 +1,14 @@
+Best EMA Combo for AAPL: Short EMA = 18, Long EMA = 100
+Total ROI (Confirmed Trades): 77.20%
+
+Buy Trades Executed:
+BUY at 2020-07-31 00:00:00-04:00 with price 103.61, Volume = 3571408, ROI = 50.04%, Confirmed, Short EMA = 18, Long EMA = 100
+BUY at 2023-02-07 00:00:00-05:00 with price 153.04, Volume = 1193188, ROI = 18.10%, Confirmed, Short EMA = 18, Long EMA = 100
+BUY at 2024-05-15 00:00:00-04:00 with price 189.52, Volume = 889908, ROI = Pending, Confirmed, Short EMA = 18, Long EMA = 100
+
+Trades Executed:
+BUY at 2020-07-31 00:00:00-04:00 with price 103.61, Volume = 3571408
+SELL at 2022-04-29 00:00:00-04:00 with price 155.46, Volume = 3321049
+BUY at 2023-02-07 00:00:00-05:00 with price 153.04, Volume = 1193188
+SELL at 2024-02-26 00:00:00-05:00 with price 180.74, Volume = 557749
+BUY at 2024-05-15 00:00:00-04:00 with price 189.52, Volume = 889908

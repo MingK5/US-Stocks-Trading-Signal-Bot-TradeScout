@@ -1,0 +1,26 @@
+Best EMA Combo for LMT: Short EMA = 12, Long EMA = 26
+Total ROI (Confirmed Trades): 23.65%
+
+Buy Trades Executed:
+BUY at 2020-07-29 00:00:00-04:00 with price 340.08, Volume = 20221, ROI = -1.06%, Confirmed, Short EMA = 12, Long EMA = 26
+BUY at 2020-11-25 00:00:00-05:00 with price 334.27, Volume = 39483, ROI = -3.89%, Confirmed, Short EMA = 12, Long EMA = 26
+BUY at 2021-10-12 00:00:00-04:00 with price 330.72, Volume = 23435, ROI = 21.99%, Confirmed, Short EMA = 12, Long EMA = 26
+BUY at 2022-08-04 00:00:00-04:00 with price 403.59, Volume = 65640, ROI = 12.89%, Confirmed, Short EMA = 12, Long EMA = 26
+BUY at 2023-03-30 00:00:00-04:00 with price 454.51, Volume = 60772, ROI = -11.36%, Confirmed, Short EMA = 12, Long EMA = 26
+BUY at 2024-03-11 00:00:00-04:00 with price 429.59, Volume = 64672, ROI = 6.54%, Confirmed, Short EMA = 12, Long EMA = 26
+BUY at 2024-07-17 00:00:00-04:00 with price 473.68, Volume = 26769, ROI = Pending, Confirmed, Short EMA = 12, Long EMA = 26
+
+Trades Executed:
+BUY at 2020-07-29 00:00:00-04:00 with price 340.08, Volume = 20221
+SELL at 2020-10-01 00:00:00-04:00 with price 336.46, Volume = 72556
+BUY at 2020-11-25 00:00:00-05:00 with price 334.27, Volume = 39483
+SELL at 2020-12-02 00:00:00-05:00 with price 321.26, Volume = 160453
+BUY at 2021-10-12 00:00:00-04:00 with price 330.72, Volume = 23435
+SELL at 2022-05-02 00:00:00-04:00 with price 403.44, Volume = 114534
+BUY at 2022-08-04 00:00:00-04:00 with price 403.59, Volume = 65640
+SELL at 2023-03-29 00:00:00-04:00 with price 455.62, Volume = 59497
+BUY at 2023-03-30 00:00:00-04:00 with price 454.51, Volume = 60772
+SELL at 2023-09-22 00:00:00-04:00 with price 402.86, Volume = 62449
+BUY at 2024-03-11 00:00:00-04:00 with price 429.59, Volume = 64672
+SELL at 2024-07-11 00:00:00-04:00 with price 457.68, Volume = 43613
+BUY at 2024-07-17 00:00:00-04:00 with price 473.68, Volume = 26769

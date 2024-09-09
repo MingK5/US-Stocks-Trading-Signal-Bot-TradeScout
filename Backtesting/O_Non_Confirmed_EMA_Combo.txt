@@ -1,0 +1,14 @@
+Best EMA Combo for O: Short EMA = 100, Long EMA = 200
+Total ROI (Non_Confirmed Trades): 0.73%
+
+Buy Trades Executed:
+BUY at 2020-07-29 00:00:00-04:00 with price 49.59, Volume = 23896, ROI = 8.31%, Non_Confirmed, Short EMA = 100, Long EMA = 200
+BUY at 2023-02-09 00:00:00-05:00 with price 60.72, Volume = 49339, ROI = -7.00%, Non_Confirmed, Short EMA = 100, Long EMA = 200
+BUY at 2024-07-23 00:00:00-04:00 with price 57.01, Volume = 79929, ROI = Pending, Non_Confirmed, Short EMA = 100, Long EMA = 200
+
+Trades Executed:
+BUY at 2020-07-29 00:00:00-04:00 with price 49.59, Volume = 23896
+SELL at 2022-10-05 00:00:00-04:00 with price 53.71, Volume = 86237
+BUY at 2023-02-09 00:00:00-05:00 with price 60.72, Volume = 49339
+SELL at 2023-03-17 00:00:00-04:00 with price 56.47, Volume = 134587
+BUY at 2024-07-23 00:00:00-04:00 with price 57.01, Volume = 79929

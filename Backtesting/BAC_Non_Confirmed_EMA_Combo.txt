@@ -1,0 +1,11 @@
+Best EMA Combo for BAC: Short EMA = 50, Long EMA = 200
+Total ROI (Non_Confirmed Trades): 62.80%
+
+Buy Trades Executed:
+BUY at 2020-07-29 00:00:00-04:00 with price 22.74, Volume = 2191049, ROI = 62.80%, Non_Confirmed, Short EMA = 50, Long EMA = 200
+BUY at 2023-12-18 00:00:00-05:00 with price 32.80, Volume = 1043484, ROI = Pending, Non_Confirmed, Short EMA = 50, Long EMA = 200
+
+Trades Executed:
+BUY at 2020-07-29 00:00:00-04:00 with price 22.74, Volume = 2191049
+SELL at 2022-04-20 00:00:00-04:00 with price 37.02, Volume = 1571435
+BUY at 2023-12-18 00:00:00-05:00 with price 32.80, Volume = 1043484

@@ -1,0 +1,27 @@
+Best EMA Combo for PLTR: Short EMA = 18, Long EMA = 100
+Total ROI (Non_Confirmed Trades): 155.91%
+
+Buy Trades Executed:
+BUY at 2020-10-08 00:00:00-04:00 with price 10.00, Volume = 1305995, ROI = 130.70%, Non_Confirmed, Short EMA = 18, Long EMA = 100
+BUY at 2021-06-11 00:00:00-04:00 with price 24.67, Volume = 479363, ROI = -13.01%, Non_Confirmed, Short EMA = 18, Long EMA = 100
+BUY at 2021-08-19 00:00:00-04:00 with price 24.21, Volume = 655549, ROI = -4.52%, Non_Confirmed, Short EMA = 18, Long EMA = 100
+BUY at 2023-02-09 00:00:00-05:00 with price 7.95, Volume = 545693, ROI = -7.36%, Non_Confirmed, Short EMA = 18, Long EMA = 100
+BUY at 2023-05-10 00:00:00-04:00 with price 9.94, Volume = 2671898, ROI = 68.71%, Non_Confirmed, Short EMA = 18, Long EMA = 100
+BUY at 2024-01-23 00:00:00-05:00 with price 17.35, Volume = 425082, ROI = -1.41%, Non_Confirmed, Short EMA = 18, Long EMA = 100
+BUY at 2024-02-07 00:00:00-05:00 with price 23.61, Volume = 2789902, ROI = -13.32%, Non_Confirmed, Short EMA = 18, Long EMA = 100
+
+Trades Executed:
+BUY at 2020-10-08 00:00:00-04:00 with price 10.00, Volume = 1305995
+SELL at 2021-04-01 00:00:00-04:00 with price 23.07, Volume = 696667
+BUY at 2021-06-11 00:00:00-04:00 with price 24.67, Volume = 479363
+SELL at 2021-07-15 00:00:00-04:00 with price 21.46, Volume = 541480
+BUY at 2021-08-19 00:00:00-04:00 with price 24.21, Volume = 655549
+SELL at 2021-11-16 00:00:00-05:00 with price 23.11, Volume = 1020692
+BUY at 2023-02-09 00:00:00-05:00 with price 7.95, Volume = 545693
+SELL at 2023-05-04 00:00:00-04:00 with price 7.37, Volume = 643889
+BUY at 2023-05-10 00:00:00-04:00 with price 9.94, Volume = 2671898
+SELL at 2024-01-19 00:00:00-05:00 with price 16.77, Volume = 814827
+BUY at 2024-01-23 00:00:00-05:00 with price 17.35, Volume = 425082
+SELL at 2024-01-29 00:00:00-05:00 with price 17.10, Volume = 495417
+BUY at 2024-02-07 00:00:00-05:00 with price 23.61, Volume = 2789902
+SELL at 2024-04-19 00:00:00-04:00 with price 20.46, Volume = 676586

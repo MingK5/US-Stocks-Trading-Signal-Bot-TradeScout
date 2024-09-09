@@ -1,0 +1,14 @@
+Best EMA Combo for LLY: Short EMA = 20, Long EMA = 50
+Total ROI (Confirmed Trades): 371.12%
+
+Buy Trades Executed:
+BUY at 2020-12-09 00:00:00-05:00 with price 151.36, Volume = 479031, ROI = 56.18%, Confirmed, Short EMA = 20, Long EMA = 50
+BUY at 2022-03-09 00:00:00-05:00 with price 256.69, Volume = 175538, ROI = 201.64%, Confirmed, Short EMA = 20, Long EMA = 50
+BUY at 2024-08-14 00:00:00-04:00 with price 930.04, Volume = 122090, ROI = Pending, Confirmed, Short EMA = 20, Long EMA = 50
+
+Trades Executed:
+BUY at 2020-12-09 00:00:00-05:00 with price 151.36, Volume = 479031
+SELL at 2022-01-21 00:00:00-05:00 with price 236.40, Volume = 125934
+BUY at 2022-03-09 00:00:00-05:00 with price 256.69, Volume = 175538
+SELL at 2024-08-05 00:00:00-04:00 with price 774.29, Volume = 166940
+BUY at 2024-08-14 00:00:00-04:00 with price 930.04, Volume = 122090

@@ -1,0 +1,29 @@
+Best EMA Combo for LLY: Short EMA = 20, Long EMA = 50
+Total ROI (Non_Confirmed Trades): 245.37%
+
+Buy Trades Executed:
+BUY at 2020-07-29 00:00:00-04:00 with price 153.38, Volume = 122701, ROI = -7.12%, Non_Confirmed, Short EMA = 20, Long EMA = 50
+BUY at 2020-12-09 00:00:00-05:00 with price 151.36, Volume = 479031, ROI = 17.83%, Non_Confirmed, Short EMA = 20, Long EMA = 50
+BUY at 2021-05-11 00:00:00-04:00 with price 187.26, Volume = 109072, ROI = 19.14%, Non_Confirmed, Short EMA = 20, Long EMA = 50
+BUY at 2021-10-28 00:00:00-04:00 with price 245.65, Volume = 155589, ROI = -3.77%, Non_Confirmed, Short EMA = 20, Long EMA = 50
+BUY at 2022-03-09 00:00:00-05:00 with price 256.69, Volume = 175538, ROI = 17.50%, Non_Confirmed, Short EMA = 20, Long EMA = 50
+BUY at 2022-09-30 00:00:00-04:00 with price 318.10, Volume = 221697, ROI = 8.36%, Non_Confirmed, Short EMA = 20, Long EMA = 50
+BUY at 2023-04-05 00:00:00-04:00 with price 358.16, Volume = 150725, ROI = 116.19%, Non_Confirmed, Short EMA = 20, Long EMA = 50
+BUY at 2024-08-14 00:00:00-04:00 with price 930.04, Volume = 122090, ROI = Pending, Non_Confirmed, Short EMA = 20, Long EMA = 50
+
+Trades Executed:
+BUY at 2020-07-29 00:00:00-04:00 with price 153.38, Volume = 122701
+SELL at 2020-07-31 00:00:00-04:00 with price 142.46, Volume = 139093
+BUY at 2020-12-09 00:00:00-05:00 with price 151.36, Volume = 479031
+SELL at 2021-03-30 00:00:00-04:00 with price 178.34, Volume = 122004
+BUY at 2021-05-11 00:00:00-04:00 with price 187.26, Volume = 109072
+SELL at 2021-09-21 00:00:00-04:00 with price 223.10, Volume = 154862
+BUY at 2021-10-28 00:00:00-04:00 with price 245.65, Volume = 155589
+SELL at 2022-01-21 00:00:00-05:00 with price 236.40, Volume = 125934
+BUY at 2022-03-09 00:00:00-05:00 with price 256.69, Volume = 175538
+SELL at 2022-09-06 00:00:00-04:00 with price 301.62, Volume = 144622
+BUY at 2022-09-30 00:00:00-04:00 with price 318.10, Volume = 221697
+SELL at 2023-01-25 00:00:00-05:00 with price 344.69, Volume = 117210
+BUY at 2023-04-05 00:00:00-04:00 with price 358.16, Volume = 150725
+SELL at 2024-08-05 00:00:00-04:00 with price 774.29, Volume = 166940
+BUY at 2024-08-14 00:00:00-04:00 with price 930.04, Volume = 122090

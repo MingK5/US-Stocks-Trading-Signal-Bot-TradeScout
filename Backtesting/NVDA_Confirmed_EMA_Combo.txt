@@ -1,0 +1,48 @@
+Best EMA Combo for NVDA: Short EMA = 5, Long EMA = 15
+Total ROI (Confirmed Trades): 633.08%
+
+Buy Trades Executed:
+BUY at 2020-07-31 00:00:00-04:00 with price 10.58, Volume = 6343120, ROI = 14.74%, Confirmed, Short EMA = 5, Long EMA = 15
+BUY at 2020-09-28 00:00:00-04:00 with price 13.00, Volume = 4427520, ROI = 0.77%, Confirmed, Short EMA = 5, Long EMA = 15
+BUY at 2021-01-11 00:00:00-05:00 with price 13.59, Volume = 11907720, ROI = 37.82%, Confirmed, Short EMA = 5, Long EMA = 15
+BUY at 2021-08-23 00:00:00-04:00 with price 21.91, Volume = 7126330, ROI = -5.75%, Confirmed, Short EMA = 5, Long EMA = 15
+BUY at 2021-10-15 00:00:00-04:00 with price 21.83, Volume = 4113960, ROI = 28.58%, Confirmed, Short EMA = 5, Long EMA = 15
+BUY at 2021-12-28 00:00:00-05:00 with price 30.27, Volume = 5903360, ROI = -8.99%, Confirmed, Short EMA = 5, Long EMA = 15
+BUY at 2022-02-10 00:00:00-05:00 with price 25.79, Volume = 13759550, ROI = -9.42%, Confirmed, Short EMA = 5, Long EMA = 15
+BUY at 2022-03-18 00:00:00-04:00 with price 26.42, Volume = 13906610, ROI = -8.59%, Confirmed, Short EMA = 5, Long EMA = 15
+BUY at 2022-05-31 00:00:00-04:00 with price 18.62, Volume = 12443140, ROI = -16.11%, Confirmed, Short EMA = 5, Long EMA = 15
+BUY at 2022-07-20 00:00:00-04:00 with price 17.79, Volume = 14192430, ROI = -13.21%, Confirmed, Short EMA = 5, Long EMA = 15
+BUY at 2022-10-25 00:00:00-04:00 with price 13.25, Volume = 11673490, ROI = 221.06%, Confirmed, Short EMA = 5, Long EMA = 15
+BUY at 2023-08-22 00:00:00-04:00 with price 45.66, Volume = 9228000, ROI = -0.39%, Confirmed, Short EMA = 5, Long EMA = 15
+BUY at 2023-12-14 00:00:00-05:00 with price 48.35, Volume = 5325170, ROI = 150.51%, Confirmed, Short EMA = 5, Long EMA = 15
+BUY at 2024-08-15 00:00:00-04:00 with price 122.91, Volume = 2329110, ROI = -13.64%, Confirmed, Short EMA = 5, Long EMA = 15
+
+Trades Executed:
+BUY at 2020-07-31 00:00:00-04:00 with price 10.58, Volume = 6343120
+SELL at 2020-09-11 00:00:00-04:00 with price 12.14, Volume = 8475680
+BUY at 2020-09-28 00:00:00-04:00 with price 13.00, Volume = 4427520
+SELL at 2020-11-23 00:00:00-05:00 with price 13.10, Volume = 9770840
+BUY at 2021-01-11 00:00:00-05:00 with price 13.59, Volume = 11907720
+SELL at 2021-07-19 00:00:00-04:00 with price 18.73, Volume = 14960120
+BUY at 2021-08-23 00:00:00-04:00 with price 21.91, Volume = 7126330
+SELL at 2021-09-28 00:00:00-04:00 with price 20.65, Volume = 7188460
+BUY at 2021-10-15 00:00:00-04:00 with price 21.83, Volume = 4113960
+SELL at 2021-12-13 00:00:00-05:00 with price 28.07, Volume = 10338330
+BUY at 2021-12-28 00:00:00-05:00 with price 30.27, Volume = 5903360
+SELL at 2022-01-05 00:00:00-05:00 with price 27.55, Volume = 8162290
+BUY at 2022-02-10 00:00:00-05:00 with price 25.79, Volume = 13759550
+SELL at 2022-02-22 00:00:00-05:00 with price 23.36, Volume = 12608230
+BUY at 2022-03-18 00:00:00-04:00 with price 26.42, Volume = 13906610
+SELL at 2022-04-07 00:00:00-04:00 with price 24.15, Volume = 11750120
+BUY at 2022-05-31 00:00:00-04:00 with price 18.62, Volume = 12443140
+SELL at 2022-06-13 00:00:00-04:00 with price 15.62, Volume = 15530210
+BUY at 2022-07-20 00:00:00-04:00 with price 17.79, Volume = 14192430
+SELL at 2022-08-30 00:00:00-04:00 with price 15.44, Volume = 11150740
+BUY at 2022-10-25 00:00:00-04:00 with price 13.25, Volume = 11673490
+SELL at 2023-08-09 00:00:00-04:00 with price 42.54, Volume = 6083310
+BUY at 2023-08-22 00:00:00-04:00 with price 45.66, Volume = 9228000
+SELL at 2023-12-04 00:00:00-05:00 with price 45.48, Volume = 5005390
+BUY at 2023-12-14 00:00:00-05:00 with price 48.35, Volume = 5325170
+SELL at 2024-07-18 00:00:00-04:00 with price 121.12, Volume = 1585456
+BUY at 2024-08-15 00:00:00-04:00 with price 122.91, Volume = 2329110
+SELL at 2024-09-04 00:00:00-04:00 with price 106.15, Volume = 5285953

@@ -1,0 +1,9 @@
+Best EMA Combo for V: Short EMA = 50, Long EMA = 200
+Total ROI (Confirmed Trades): 3.84%
+
+Buy Trades Executed:
+BUY at 2020-08-20 00:00:00-04:00 with price 198.35, Volume = 239482, ROI = 3.84%, Confirmed, Short EMA = 50, Long EMA = 200
+
+Trades Executed:
+BUY at 2020-08-20 00:00:00-04:00 with price 198.35, Volume = 239482
+SELL at 2021-11-11 00:00:00-05:00 with price 205.97, Volume = 1095901

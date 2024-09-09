@@ -1,0 +1,24 @@
+Best EMA Combo for MSFT: Short EMA = 20, Long EMA = 50
+Total ROI (Confirmed Trades): 73.20%
+
+Buy Trades Executed:
+BUY at 2020-08-03 00:00:00-04:00 with price 208.74, Volume = 733868, ROI = 45.00%, Confirmed, Short EMA = 20, Long EMA = 50
+BUY at 2022-04-04 00:00:00-04:00 with price 308.35, Volume = 482121, ROI = -10.48%, Confirmed, Short EMA = 20, Long EMA = 50
+BUY at 2022-08-03 00:00:00-04:00 with price 277.11, Volume = 605042, ROI = -10.52%, Confirmed, Short EMA = 20, Long EMA = 50
+BUY at 2023-02-01 00:00:00-05:00 with price 249.21, Volume = 662458, ROI = 26.19%, Confirmed, Short EMA = 20, Long EMA = 50
+BUY at 2023-09-08 00:00:00-04:00 with price 332.00, Volume = 400659, ROI = -5.04%, Confirmed, Short EMA = 20, Long EMA = 50
+BUY at 2023-10-18 00:00:00-04:00 with price 327.73, Volume = 422983, ROI = 24.43%, Confirmed, Short EMA = 20, Long EMA = 50
+
+Trades Executed:
+BUY at 2020-08-03 00:00:00-04:00 with price 208.74, Volume = 733868
+SELL at 2022-01-14 00:00:00-05:00 with price 302.68, Volume = 1072081
+BUY at 2022-04-04 00:00:00-04:00 with price 308.35, Volume = 482121
+SELL at 2022-04-12 00:00:00-04:00 with price 276.05, Volume = 913836
+BUY at 2022-08-03 00:00:00-04:00 with price 277.11, Volume = 605042
+SELL at 2022-09-14 00:00:00-04:00 with price 247.97, Volume = 579073
+BUY at 2023-02-01 00:00:00-05:00 with price 249.21, Volume = 662458
+SELL at 2023-08-17 00:00:00-04:00 with price 314.49, Volume = 258175
+BUY at 2023-09-08 00:00:00-04:00 with price 332.00, Volume = 400659
+SELL at 2023-09-25 00:00:00-04:00 with price 315.26, Volume = 263077
+BUY at 2023-10-18 00:00:00-04:00 with price 327.73, Volume = 422983
+SELL at 2024-08-02 00:00:00-04:00 with price 407.78, Volume = 455440

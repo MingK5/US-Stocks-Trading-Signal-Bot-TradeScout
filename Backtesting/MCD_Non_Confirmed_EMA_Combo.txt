@@ -1,0 +1,14 @@
+Best EMA Combo for MCD: Short EMA = 50, Long EMA = 200
+Total ROI (Non_Confirmed Trades): 22.55%
+
+Buy Trades Executed:
+BUY at 2020-08-17 00:00:00-04:00 with price 189.35, Volume = 58543, ROI = 27.97%, Non_Confirmed, Short EMA = 50, Long EMA = 200
+BUY at 2023-12-07 00:00:00-05:00 with price 281.74, Volume = 84746, ROI = -4.23%, Non_Confirmed, Short EMA = 50, Long EMA = 200
+BUY at 2024-08-29 00:00:00-04:00 with price 286.29, Volume = 74990, ROI = Pending, Non_Confirmed, Short EMA = 50, Long EMA = 200
+
+Trades Executed:
+BUY at 2020-08-17 00:00:00-04:00 with price 189.35, Volume = 58543
+SELL at 2023-10-06 00:00:00-04:00 with price 242.31, Volume = 108866
+BUY at 2023-12-07 00:00:00-05:00 with price 281.74, Volume = 84746
+SELL at 2024-04-26 00:00:00-04:00 with price 269.81, Volume = 112082
+BUY at 2024-08-29 00:00:00-04:00 with price 286.29, Volume = 74990

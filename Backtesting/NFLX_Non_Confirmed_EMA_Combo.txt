@@ -1,0 +1,50 @@
+Best EMA Combo for NFLX: Short EMA = 15, Long EMA = 45
+Total ROI (Non_Confirmed Trades): 69.62%
+
+Buy Trades Executed:
+BUY at 2020-08-06 00:00:00-04:00 with price 509.11, Volume = 54647, ROI = -8.29%, Non_Confirmed, Short EMA = 15, Long EMA = 45
+BUY at 2020-08-27 00:00:00-04:00 with price 526.42, Volume = 312079, ROI = -10.68%, Non_Confirmed, Short EMA = 15, Long EMA = 45
+BUY at 2020-10-06 00:00:00-04:00 with price 505.78, Volume = 131983, ROI = -0.32%, Non_Confirmed, Short EMA = 15, Long EMA = 45
+BUY at 2020-12-09 00:00:00-05:00 with price 494.46, Volume = 171395, ROI = 18.71%, Non_Confirmed, Short EMA = 15, Long EMA = 45
+BUY at 2021-01-21 00:00:00-05:00 with price 580.08, Volume = 480876, ROI = -7.20%, Non_Confirmed, Short EMA = 15, Long EMA = 45
+BUY at 2021-04-08 00:00:00-04:00 with price 555.06, Volume = 186418, ROI = -8.88%, Non_Confirmed, Short EMA = 15, Long EMA = 45
+BUY at 2021-06-28 00:00:00-04:00 with price 533.06, Volume = 146189, ROI = -3.21%, Non_Confirmed, Short EMA = 15, Long EMA = 45
+BUY at 2021-08-20 00:00:00-04:00 with price 546.81, Volume = 156014, ROI = 14.84%, Non_Confirmed, Short EMA = 15, Long EMA = 45
+BUY at 2022-07-28 00:00:00-04:00 with price 226.03, Volume = 351447, ROI = 38.03%, Non_Confirmed, Short EMA = 15, Long EMA = 45
+BUY at 2023-04-03 00:00:00-04:00 with price 348.32, Volume = 172464, ROI = -8.33%, Non_Confirmed, Short EMA = 15, Long EMA = 45
+BUY at 2023-05-11 00:00:00-04:00 with price 344.99, Volume = 168532, ROI = 19.74%, Non_Confirmed, Short EMA = 15, Long EMA = 45
+BUY at 2023-08-31 00:00:00-04:00 with price 433.75, Volume = 104624, ROI = -9.08%, Non_Confirmed, Short EMA = 15, Long EMA = 45
+BUY at 2023-11-02 00:00:00-04:00 with price 424.64, Volume = 102535, ROI = 32.98%, Non_Confirmed, Short EMA = 15, Long EMA = 45
+BUY at 2024-05-13 00:00:00-04:00 with price 616.68, Volume = 59753, ROI = 1.64%, Non_Confirmed, Short EMA = 15, Long EMA = 45
+BUY at 2024-08-19 00:00:00-04:00 with price 688.51, Volume = 58615, ROI = Pending, Non_Confirmed, Short EMA = 15, Long EMA = 45
+
+Trades Executed:
+BUY at 2020-08-06 00:00:00-04:00 with price 509.11, Volume = 54647
+SELL at 2020-08-11 00:00:00-04:00 with price 466.92, Volume = 334251
+BUY at 2020-08-27 00:00:00-04:00 with price 526.42, Volume = 312079
+SELL at 2020-09-17 00:00:00-04:00 with price 470.20, Volume = 100659
+BUY at 2020-10-06 00:00:00-04:00 with price 505.78, Volume = 131983
+SELL at 2020-10-29 00:00:00-04:00 with price 504.14, Volume = 625813
+BUY at 2020-12-09 00:00:00-05:00 with price 494.46, Volume = 171395
+SELL at 2021-01-20 00:00:00-05:00 with price 586.99, Volume = 870902
+BUY at 2021-01-21 00:00:00-05:00 with price 580.08, Volume = 480876
+SELL at 2021-01-28 00:00:00-05:00 with price 538.30, Volume = 357206
+BUY at 2021-04-08 00:00:00-04:00 with price 555.06, Volume = 186418
+SELL at 2021-04-27 00:00:00-04:00 with price 505.75, Volume = 232097
+BUY at 2021-06-28 00:00:00-04:00 with price 533.06, Volume = 146189
+SELL at 2021-08-13 00:00:00-04:00 with price 515.96, Volume = 100321
+BUY at 2021-08-20 00:00:00-04:00 with price 546.81, Volume = 156014
+SELL at 2021-12-08 00:00:00-05:00 with price 627.98, Volume = 65187
+BUY at 2022-07-28 00:00:00-04:00 with price 226.03, Volume = 351447
+SELL at 2023-03-06 00:00:00-05:00 with price 311.99, Volume = 202492
+BUY at 2023-04-03 00:00:00-04:00 with price 348.32, Volume = 172464
+SELL at 2023-05-03 00:00:00-04:00 with price 319.30, Volume = 206309
+BUY at 2023-05-11 00:00:00-04:00 with price 344.99, Volume = 168532
+SELL at 2023-08-22 00:00:00-04:00 with price 413.08, Volume = 128052
+BUY at 2023-08-31 00:00:00-04:00 with price 433.75, Volume = 104624
+SELL at 2023-09-18 00:00:00-04:00 with price 394.35, Volume = 111904
+BUY at 2023-11-02 00:00:00-04:00 with price 424.64, Volume = 102535
+SELL at 2024-04-25 00:00:00-04:00 with price 564.70, Volume = 97548
+BUY at 2024-05-13 00:00:00-04:00 with price 616.68, Volume = 59753
+SELL at 2024-07-29 00:00:00-04:00 with price 626.78, Volume = 54910
+BUY at 2024-08-19 00:00:00-04:00 with price 688.51, Volume = 58615

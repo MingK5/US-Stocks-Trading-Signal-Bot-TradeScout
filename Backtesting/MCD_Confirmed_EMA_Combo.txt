@@ -1,0 +1,23 @@
+Best EMA Combo for MCD: Short EMA = 15, Long EMA = 45
+Total ROI (Confirmed Trades): 34.45%
+
+Buy Trades Executed:
+BUY at 2020-08-12 00:00:00-04:00 with price 187.10, Volume = 47558, ROI = 23.28%, Confirmed, Short EMA = 15, Long EMA = 45
+BUY at 2022-07-01 00:00:00-04:00 with price 240.12, Volume = 134355, ROI = -2.14%, Confirmed, Short EMA = 15, Long EMA = 45
+BUY at 2022-10-27 00:00:00-04:00 with price 253.43, Volume = 302685, ROI = -1.22%, Confirmed, Short EMA = 15, Long EMA = 45
+BUY at 2023-03-07 00:00:00-05:00 with price 258.07, Volume = 103329, ROI = 8.24%, Confirmed, Short EMA = 15, Long EMA = 45
+BUY at 2023-11-15 00:00:00-05:00 with price 264.02, Volume = 58216, ROI = 4.23%, Confirmed, Short EMA = 15, Long EMA = 45
+BUY at 2024-08-02 00:00:00-04:00 with price 275.07, Volume = 359958, ROI = Pending, Confirmed, Short EMA = 15, Long EMA = 45
+
+Trades Executed:
+BUY at 2020-08-12 00:00:00-04:00 with price 187.10, Volume = 47558
+SELL at 2022-05-16 00:00:00-04:00 with price 230.65, Volume = 103783
+BUY at 2022-07-01 00:00:00-04:00 with price 240.12, Volume = 134355
+SELL at 2022-09-23 00:00:00-04:00 with price 234.99, Volume = 81690
+BUY at 2022-10-27 00:00:00-04:00 with price 253.43, Volume = 302685
+SELL at 2023-02-09 00:00:00-05:00 with price 250.33, Volume = 166357
+BUY at 2023-03-07 00:00:00-05:00 with price 258.07, Volume = 103329
+SELL at 2023-08-10 00:00:00-04:00 with price 279.33, Volume = 68296
+BUY at 2023-11-15 00:00:00-05:00 with price 264.02, Volume = 58216
+SELL at 2024-03-18 00:00:00-04:00 with price 275.20, Volume = 57757
+BUY at 2024-08-02 00:00:00-04:00 with price 275.07, Volume = 359958
