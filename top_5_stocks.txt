@@ -1,5 +1,5 @@
-META,Low ROI,High,Non-Confirmed
 NFLX,Low ROI,High,Non-Confirmed
 BAC,Low ROI,Low,Confirmed
 LLY,Low ROI,Low,Confirmed
 TSLA,Low ROI,Low,Confirmed
+ADBE,Low ROI,Low,Non-Confirmed
